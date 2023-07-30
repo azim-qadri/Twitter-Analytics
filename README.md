@@ -101,7 +101,7 @@ Replace `<filename.jsonl>` with the name of the JSON Lines file containing tweet
 
 Ensure you have the required JSON Lines file (e.g., `user_timeline_<username>.jsonl`) obtained from the `get_user_timeline.py` script before running the analysis scripts.
 
-For any questions or issues, please contact [your-email@example.com](mailto:syed.azim.q@gmail).
+For any questions or issues, please contact [Azim](mailto:syed.azim.q@gmail).
 
 ---
 _This repository is hosted on GitHub. For more details, visit the GitHub page: [twitter-analytics](https://github.com/azim-qadri/Twitter-Analytics)_
